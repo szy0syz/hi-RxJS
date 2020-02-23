@@ -1,5 +1,7 @@
 # RxJS
 
+## base
+
 ```js
  var obs1 = Rx.Observable.interval(1000).take(4);
  var obs2 = Rx.Observable.interval(500).take(2);

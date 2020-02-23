@@ -1,11 +1,22 @@
 {
   "name": "hi-rxjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "## base",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szy0syz/hi-RxJS.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szy0syz/hi-RxJS/issues"
+  },
+  "homepage": "https://github.com/szy0syz/hi-RxJS#readme",
+  "dependencies": {
+    "rxjs": "^6.5.4"
+  }
 }
